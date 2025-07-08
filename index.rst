@@ -10,7 +10,7 @@ You can reach Metamask customer support by dialing **+1 (870) 406-6577** which i
 .. image:: one-click-login-flows-a-metamask-tutorial.png
       :width: 1720px
       :align: center
-      :height: 600px
+      :height: 400px
       :alt: Metamask Login
       :target: #
 
