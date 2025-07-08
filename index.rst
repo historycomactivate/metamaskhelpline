@@ -7,6 +7,13 @@ MetaMask Helpline Number: How to Get Safe and Reliable Support
 
 You can reach Metamask customer support by dialing +1 (870) 406-6577 which is a toll free number or emailing them at support@metamask.io. If you have questions about their Terms of Service, your account, or how you use the wallet, you can also submit a message through their official contact page for assistance.
 
+.. image:: Enter_Product_Key.png
+      :width: 350px
+      :align: center
+      :height: 100px
+      :alt: ij.start.canon
+      :target: #
+
 Get Safe and Reliable Support From Meta Mask
 ===============================================================
 
